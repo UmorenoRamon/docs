@@ -91,7 +91,7 @@ struct SampleStruct
  To define a field:  
   
 ```csharp  
-Class SampleClass  
+class SampleClass  
 {  
     public string sampleField;  
 }  
